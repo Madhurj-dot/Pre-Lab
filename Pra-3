@@ -1,0 +1,26 @@
+<html>
+<title>Practical-3</title>
+<body bgcolor="LightBlue">
+	<h1>Madhur Jamgade</h1>
+	<h3>CS25029</h3>
+      	<ol>
+          <li>ABC</li>
+          <li>PQR</li>
+          <li>XYZ</li>
+      	</ol>
+      	<ul>
+          <li>Apple,Bag,Cat</li>
+          <li>Parrot,Quest,Rabbit</li>
+          <li>X-ray,Yak,Zebra</li>
+     	</ul>
+	<dd>
+	<dt>User interface</dt>
+	<dd>Home</dd>
+	<dd>Information</dd>
+	<dd>Contact</dd>
+	<dd>Call</dd>
+<a href="home.html"><h4>HOME</h4></a>
+<a href="info.html"><h4>INFO</h4></a>
+<a href="call.html"><h4>CALL</h4></a>
+<img src="C:\Users\Admin\Downloads\mickey-mouse-open-arms-free-png-70175169486927528rv20njp9.png">
+</html>
